@@ -1,6 +1,7 @@
 - # Welcome to My GitHub!
 
 Hi, I'm Mahroosh Shakeel! I'm a software engineering enthusiast, currently learning Python through CS50. I am passionate about programming and technology, and I enjoy working on various coding projects in my free time. I’m also a student at MC Model Girls High School in Sheikhupura, where I focus on developing my skills in coding and software engineering.
+"Age doesn't define your ability. Passion does."
 
 ## About Me
 
