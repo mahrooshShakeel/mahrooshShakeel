@@ -12,7 +12,7 @@ Hi, I'm Mahroosh Shakeel! I'm a software engineering enthusiast, currently learn
   
 ---## Skills & Technologies
 
-- Programming Languages: **Python**, (Scratch).
+- Programming Languages: **HTML , CSS ,Python**, (Scratch).
 
 ## Contact Me
 
